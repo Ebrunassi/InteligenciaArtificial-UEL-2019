@@ -1,0 +1,23 @@
+Exemplos ex 1:
+
+TRUE
+pai(homer_simpson,bart_simpson)
+tia(selma_bouvier,lisa_simpson)
+avô(clancy_bouvier,ling_bouvier)
+FALSE
+avô(clancy_bouvier,herb_simpson)
+pai(abe_simpson,patty_bouvier)
+mae(mona_simpson,bart_simpson)
+
+Exemplos ex 2:
+
+TRUE
+e_um_recursivo(atacante,pessoa)
+e_um_recursivo(basquete_3x3,esporte)
+tem_recursivo(tenis,sola)
+tem_recursivo(oscar,braco)
+FALSE
+e_um_recursivo(neymar,tecnico)
+e_um_recursivo(futsal,esporte_olimpico)
+tem_recursivo(oscar,atacante)
+tem_recursivo(tecnico,esporte)
